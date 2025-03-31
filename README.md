@@ -9,8 +9,6 @@ Right now, I'm diving deep into **Machine Learning**, **Large Language Models (L
 
 I love exploring new technologies, experimenting with side projects, and pushing the boundaries of what I can build. Whether it's enhancing UX, automating workflows, or simplifying complex tasks with AI — I'm all in.
 
----
-
 ## 🛠️ Tech Stack
 
 **Frontend**  
@@ -21,8 +19,6 @@ Node.js · Express · Prisma · MongoDB · SQL · Supabase · FastAPI
 
 **AI & Dev Tools**  
 OpenAI API · Gemini API · LangChain · Python · Git · Vercel · Docker
-
----
 
 ## 🧪 Latest Side Projects
 
