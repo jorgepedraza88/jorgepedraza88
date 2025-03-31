@@ -25,15 +25,11 @@ OpenAI API · Gemini API · LangChain · Python · Git · Vercel · Docker
 - 🎬 [**YouTube Summarizer**](https://youtube-summarizer-sable.vercel.app/) – AI-powered tool that summarizes any YouTube video in seconds  
 - 🌀 [**SnapRetro**](https://www.snapretro.app/) – The easiest way to run retrospectives with your team
 
----
-
 ## 🎲 Fun facts about me
 
 - I read tons of **fantasy books** and enjoy immersive board games  
 - I love building tools that make life easier  
 - Always tinkering with something new and learning by doing  
 - Strong advocate of **clean UX**, performance, and developer experience
-
----
 
 Let's connect and build something awesome 🤝
