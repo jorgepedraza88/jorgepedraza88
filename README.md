@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi there! I'm Jorge
 
-<!--
-**jorgepedraza88/jorgepedraza88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Frontend Developer at [Knack](https://www.knack.com/) | Passionate about AI & Web Dev
 
-Here are some ideas to get you started:
+I'm on a mission to become an **AI-Driven FullStack Developer**, focused on integrating Artificial Intelligence into modern web applications.  
+Right now, I'm diving deep into **Machine Learning**, **Large Language Models (LLMs)**, and **Python** to bring smart functionality to the tools I build.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 A curious and restless learner
+
+I love exploring new technologies, experimenting with side projects, and pushing the boundaries of what I can build. Whether it's enhancing UX, automating workflows, or simplifying complex tasks with AI — I'm all in.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**  
+React · Next.js · TypeScript · Tailwind CSS · Sass · React Query
+
+**Backend & Tools**  
+Node.js · Express · Prisma · MongoDB · SQL · Supabase · FastAPI
+
+**AI & Dev Tools**  
+OpenAI API · Gemini API · LangChain · Python · Git · Vercel · Docker
+
+---
+
+## 🧪 Latest Side Projects
+
+- 🎬 [**YouTube Summarizer**](https://youtube-summarizer-sable.vercel.app/) – AI-powered tool that summarizes any YouTube video in seconds  
+- 🌀 [**SnapRetro**](https://www.snapretro.app/) – The easiest way to run retrospectives with your team
+
+---
+
+## 🎲 Fun facts about me
+
+- I read tons of **fantasy books** and enjoy immersive board games  
+- I love building tools that make life easier  
+- Always tinkering with something new and learning by doing  
+- Strong advocate of **clean UX**, performance, and developer experience
+
+---
+
+Let's connect and build something awesome 🤝
