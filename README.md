@@ -33,5 +33,5 @@ multiple LLM providers
 ### About
 Remote from Málaga, Spain
 
-📫 jorge.pedraza@example.com · 🌐 [jorgepedraza.com](https://www.jorgepedraza.com) · 
+🌐 [jorgepedraza.com](https://www.jorgepedraza.com) · 
 💼 [LinkedIn](www.linkedin.com/in/jorge-pedraza-mañogil-fullstack)
