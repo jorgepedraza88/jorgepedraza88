@@ -21,13 +21,16 @@ Supabase
 
 ### Featured Projects
 
-🤖 **[Next.js + Mastra.ai Starter](https://github.com/jorgepedraza88/saas-starter-ai)** – Production boilerplate for 
+**[Docs Chat](https://github.com/jorgepedraza88/docs-chat)** – A document chat application powered by RAG (Retrieval Augmented Generation) that allows you to chat with your documents using AI. 
+Built with LangChain for professional document processing.
+
+**[Next.js + Mastra.ai Starter](https://github.com/jorgepedraza88/saas-starter-ai)** – Production boilerplate for 
 AI agent applications with auth, database, and conversation management
 
-🎬 **[SummarizeTube](https://github.com/jorgepedraza88/youtube-summarizer)** – AI video summarizer with multi-language 
+**[SummarizeTube](https://github.com/jorgepedraza88/youtube-summarizer)** – AI video summarizer with multi-language 
 support and intelligent caching
 
-🐍 **[Pydantic AI + FastAPI Starter](https://github.com/jorgepedraza88/pydantic-ai-fastapi-starter)** – Unified API wrapper for 
+**[Pydantic AI + FastAPI Starter](https://github.com/jorgepedraza88/pydantic-ai-fastapi-starter)** – Unified API wrapper for 
 multiple LLM providers
 
 ### About
