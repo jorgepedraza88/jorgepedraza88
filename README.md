@@ -1,10 +1,7 @@
-## Senior Full Stack Engineer | AI Integration Specialist
+## Senior Full Stack Engineer | Frontend Oriented 
 
 Building AI-powered applications with LLM integrations, RAG systems, and 
 agentic workflows.
-
-Currently architecting AI features at Knack. Focused on making AI 
-capabilities accessible through production-ready applications.
 
 ### AI & Machine Learning
 LangChain · OpenAI API · Anthropic API · Vercel AI SDK · Pydantic AI · 
